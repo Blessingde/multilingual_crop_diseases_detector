@@ -7,6 +7,6 @@ st.markdown("""
 Welcome to the **Multilingual Crop Disease Detection** system!  
 Choose a page from the sidebar to test the app:
 
-- 📲 SMS Simulator  
+- App  
 - ℹ️ About Project  
 """)
