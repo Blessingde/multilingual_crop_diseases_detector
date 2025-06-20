@@ -1,0 +1,46 @@
+Crop,Disease Label,Language,Symptom Text
+Tomato,Tomato Yellow Leaf Curl Virus,en,Your tomato plant has Yellow Leaf Curl Virus. Use resistant varieties.
+Tomato,Tomato Yellow Leaf Curl Virus,yo,Igba tomato rẹ̀ ní àrùn Yellow Leaf Curl Virus. Lo irú ewé tí kò ní àrùn.
+Tomato,Tomato Yellow Leaf Curl Virus,ha,Shukar tumatir dinka na da cutar Yellow Leaf Curl Virus. Yi amfani da iri masu juriya.
+Tomato,Tomato Yellow Leaf Curl Virus,ig,Ụgbọ tomato gị nwere ọrịa Yellow Leaf Curl Virus. Jiri ụdị tomato nwere mgbochi.
+Tomato,Tomato Yellow Leaf Curl Virus,pidgin,Na Yellow Leaf Curl Virus dey worry your tomato. Use beta seed wey no dey catch am.
+Maize,Maize Streak Virus,en,Your maize plant has Maize Streak Virus. Control it using resistant maize varieties.
+Maize,Maize Streak Virus,yo,Agbado rẹ ní àrùn Maize Streak Virus. Lo irú agbado tí kò ní àrùn.
+Maize,Maize Streak Virus,ha,Shukar masara dinka na da Maize Streak Virus. Yi amfani da iri masu juriya.
+Maize,Maize Streak Virus,ig,Ụgbọ ọka gị nwere Maize Streak Virus. Jiri ụdị ọka nwere mgbochi.
+Maize,Maize Streak Virus,pidgin,Na Maize Streak Virus dey disturb your corn. Use strong corn seed wey no dey catch am.
+Cassava,Cassava Mosaic Disease,en,Your cassava has Cassava Mosaic Disease. Use clean cuttings and resistant varieties.
+Cassava,Cassava Mosaic Disease,yo,Ẹ̀gúsí rẹ̀ ní àrùn Cassava Mosaic. Lo ewé mímọ́ àti irú tí kò ní àrùn.
+Cassava,Cassava Mosaic Disease,ha,Maniyok dinka na da Cassava Mosaic. Yi amfani da tsiron lafiya da iri masu juriya.
+Cassava,Cassava Mosaic Disease,ig,Cassava gị nwere Cassava Mosaic. Jiri akọrọ dị ọcha na ụdị nwere mgbochi.
+Cassava,Cassava Mosaic Disease,pidgin,Your cassava get Cassava Mosaic. Use clean stem and cassava wey strong.
+Rice,Rice Blast,en,Your rice plant shows symptoms of Rice Blast. Apply fungicide and avoid dense planting.
+Rice,Rice Blast,yo,Igbà irìsì rẹ̀ ní àwòra Rice Blast. Lo ewé àkórè àti yà àgbàdo kúrò nítòsí.
+Rice,Rice Blast,ha,Shukar shinkafa na nuna alamomin Rice Blast. Yi amfani da maganin fungi kuma kada ka cika shuka.
+Rice,Rice Blast,ig,Ọka nri gị nwere Rice Blast. Tinye ọgwụ fungus ma werepụ̀rị̀ ihe fọrọ nke nta ka ọ bụrụ osisi.
+Rice,Rice Blast,pidgin,Na Rice Blast dey affect your rice. Spray antifungus and no plant dem too close.
+Potato,Late Blight,en,Your potato plant has Late Blight. Use fungicides and resistant varieties.
+Potato,Late Blight,yo,Igba poteto rẹ̀ ní Late Blight. Lo ewé àkórè àti ewé tó lagbara.
+Potato,Late Blight,ha,Shukar dankalin turawa na da Late Blight. Yi amfani da maganin fungi.
+Potato,Late Blight,ig,Poteto gị nwere Late Blight. Jiri ọgwụ na-akwalite nguzogide.
+Potato,Late Blight,pidgin,Na Late Blight dey worry your potato. Spray antifungus.
+Beans,Anthracnose,en,Your beans show signs of Anthracnose. Avoid overhead watering and apply fungicide.
+Beans,Anthracnose,yo,"Ewé ewa rẹ̀ ní àwò Anthracnose. Má fi omi ṣàn lórí ewé, lo àkórè."
+Beans,Anthracnose,ha,"Wake dinka na da Anthracnose. Kada ka yayyafa ruwa kai tsaye, yi amfani da magani."
+Beans,Anthracnose,ig,"Akwụkwọ agwa gị nwere Anthracnose. Zere iji mmiri kpọrọ ya, tinye ọgwụ."
+Beans,Anthracnose,pidgin,Your beans get Anthracnose. No pour water from top. Spray antifungus.
+Groundnut,Groundnut Rosette,en,Your groundnut is affected by Rosette Virus. Control aphids and plant early.
+Groundnut,Groundnut Rosette,yo,"Epa rẹ̀ ní àrùn Rosette. Pa kokoro run, gbìn ni kutukutu."
+Groundnut,Groundnut Rosette,ha,Gyada dinka na da Rosette. Sarrafa kwari kuma shuka da wuri.
+Groundnut,Groundnut Rosette,ig,"Ọka epa gị nwere Rosette. Kpochapụ kokoro, gbọmgharị tupu oge eruo."
+Groundnut,Groundnut Rosette,pidgin,Your groundnut get Rosette Virus. Kill small-small insects and plant early.
+Cocoa,Black Pod Disease,en,Your cocoa tree has Black Pod Disease. Remove infected pods and apply fungicide.
+Cocoa,Black Pod Disease,yo,"Igba koko rẹ̀ ní Black Pod. Yọ eso tó ní àrùn, lo àkórè."
+Cocoa,Black Pod Disease,ha,Cokalet dinka na da Black Pod. Cire korayen da cuta ya kama.
+Cocoa,Black Pod Disease,ig,"Koko gị nwere Black Pod. Wepụ mkpụrụ mebiri emebi, jiri ọgwụ."
+Cocoa,Black Pod Disease,pidgin,Na Black Pod dey worry your cocoa. Remove bad pods and spray antifungus.
+Banana,Banana Bunchy Top Virus,en,Your banana plant has Bunchy Top Virus. Remove and destroy infected plants.
+Banana,Banana Bunchy Top Virus,yo,"Ogede rẹ̀ ní Bunchy Top Virus. Yọ igi tó ní àrùn, pa á."
+Banana,Banana Bunchy Top Virus,ha,Ayaba dinka na da Bunchy Top Virus. Cire shukar da cutar ta kama.
+Banana,Banana Bunchy Top Virus,ig,Ogede gị nwere Bunchy Top Virus. Kpochapụ igbo ndị nwere ọrịa.
+Banana,Banana Bunchy Top Virus,pidgin,Banana get Bunchy Top Virus. Uproot and burn the infected ones.
